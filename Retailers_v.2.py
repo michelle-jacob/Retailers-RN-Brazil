@@ -1352,3 +1352,8 @@ if pseudo_r2 < 0.20:
 # ## Conclusion 
 # 
 # In conclusion, the hypothesis that sanitary quality uniformly improves with increasing establishment size was not broadly confirmed. Instead, the data points to a general high baseline of sanitary performance across most retailer types, with only the Supercenter category demonstrating a distinct and statistically significant advantage. The very limited explanatory power of the model (low Pseudo R2) further suggests that other, uninvestigated factors likely exert a far more dominant influence on the determination of sanitary quality within these establishments.
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> ba380f1eb7bc16a1bf35b1f5c293f3046562ffd6
